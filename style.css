@@ -1,0 +1,38 @@
+ body{
+ 	color: seagreen;
+      font-family: Arial;
+ background-color: burlywood;
+
+ 	
+ }
+
+p{
+	text-align:left;
+}
+h1{
+	text-align: center;
+   color:greenyellow;
+
+}
+   
+.first {
+	text-align: left; 
+}
+ h2{
+ 	color: yellow;
+ }
+ h3{
+ 	text-align:center ;
+ 	color:greenyellow;	 
+ }
+ h4{
+ 	text-align:center;
+    color: ivory;
+ }
+ h5{
+ 	text-align: center;
+    color:indigo ;
+ }
+ .second{
+ 	text-align: left;
+ }
